@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo_fusionxdrive.png" alt="FusionXDrive" width="600">
+  <img src="assets/logo_fusionxdrive.png" alt="FusionXDrive" width="300">
 </p>
 
 A multi-modal VLM for driving scene understanding and trajectory planning, fusing RGB, LiDAR, and 4D Radar through learnable bridges into a frozen LLM.
