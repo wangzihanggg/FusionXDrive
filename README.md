@@ -224,17 +224,6 @@ python scripts/evaluate_planning.py \
 | Diffusion planner | ~6M |
 | **Total** | **~18.7M** |
 
-## Citation
-
-If you find this work useful, please consider citing:
-
-```bibtex
-@misc{fusionxdrive2025,
-  title={FusionXDrive: Multi-Modal VLM for Driving Scene Understanding and Trajectory Planning},
-  year={2025},
-}
-```
-
 ## License
 
 MIT License - see LICENSE file for details.
