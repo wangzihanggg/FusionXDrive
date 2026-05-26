@@ -56,7 +56,7 @@ A multi-modal VLM for driving scene understanding and trajectory planning, fusin
 - **Two bridge variants**: Standard Q-Former + MoRo-Former (Mixture-of-Experts routing)
 - **Three-stage progressive training**: Captioning warm-up → Routing learning → Planner training
 - **LoRA fine-tuning**: Efficient LLM adaptation with minimal trainable parameters
-- **Multi-dataset support**: UNISCP（待发布）
+- **Multi-dataset support**: UNISCP（To be released）
 
 ## Project Structure
 
@@ -112,7 +112,7 @@ pip install -e .
 
 ### Data Preparation
 
-> **Note**: The UniSCP dataset is currently **待发布** (to be released). The dataset structure below is provided for reference.
+> **Note**: The UniSCP dataset is currently (to be released). The dataset structure below is provided for reference.
 
 Expected dataset structure under `UNISCP/`:
 
